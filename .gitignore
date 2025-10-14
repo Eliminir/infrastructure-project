@@ -1,0 +1,21 @@
+# Исключаем временные файлы
+*.tmp
+*.swp
+
+# Исключаем сертификаты и ключи
+ssl/*.key
+ssl/*.pem
+*.crt
+*.csr
+
+# Исключаем логи
+logs/
+*.log
+
+# Исключаем системные файлы
+html/
+proxy_temp_path/
+client_body_temp_path/
+fastcgi_temp_path/
+uwsgi_temp_path/
+scgi_temp_path/
