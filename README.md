@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# NGINX Configuration
+## Концигурации NGINX
 
-Репозиторий конфигураций NGINX
-=======
+## Концигурации Apache
