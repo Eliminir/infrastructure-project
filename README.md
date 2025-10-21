@@ -3,4 +3,4 @@
 ## Концигурации Apache
 
 
-В случае аварии запускай скрипт front_reserv_install.sh
+В случае аварии запускай скрипт VOSTANOVLENIE.sh
